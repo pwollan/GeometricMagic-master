@@ -1,0 +1,23 @@
+# Compiled source #
+###################
+*.class
+*.jar
+
+# Eclipse #
+###########
+*.classpath
+*.project
+
+# System #
+##########
+.directory
+*~
+
+# IntelliJ #
+############
+*.iml
+.idea/
+
+# Unknown #
+###########
+*.orig
